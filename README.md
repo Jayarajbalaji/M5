@@ -182,7 +182,8 @@ int main() {
 ~~~
 
  ## OUTPUT
-![Uploading 437942236-cabf80fd-ed58-4468-ab78-714005cfe533.png…]()
+ 
+![437942271-9b73a99c-5093-495f-8532-c74cf86deec2](https://github.com/user-attachments/assets/b9ca8d32-55e1-418f-b11c-af15c6e4683a)
 
  
 
@@ -243,7 +244,8 @@ int main() {
 }
 ~~~
 ## OUTPUT
-![Uploading 437942271-9b73a99c-5093-495f-8532-c74cf86deec2.png…]()
+![437942292-42cdd7b3-073d-4c0e-958e-657742cb6445](https://github.com/user-attachments/assets/fef1d1ec-2ce4-49cb-b17a-e33a511bb900)
+
 
  
 
